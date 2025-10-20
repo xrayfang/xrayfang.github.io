@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # Currently available options are "default", "air"
+site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Ray Fang"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Ray Fang"
   pronouns         : # example: "she/her"  
-  bio              : "Postgraduate student at the University of Chinese Acedemy Sciences."
+  bio              : "Postgraduate student at the National Space Science Center, Chinese Academy Sciences."
   # location         : "Earth"
   # employer         : "Red Brick University"
   # uri              : # URL
