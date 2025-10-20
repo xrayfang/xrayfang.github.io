@@ -27,9 +27,9 @@ author:
   name             : "Ray Fang"
   pronouns         : # example: "she/her"  
   bio              : "Postgraduate student at the National Space Science Center, Chinese Academy Sciences."
-  # location         : "Earth"
-  # employer         : "Red Brick University"
-  # uri              : # URL
+  location         : # "Earth"
+  employer         : # "Red Brick University"
+  uri              : # URL
   email            : "fangruixiang24@mails.ucas.ac.cn" 
 
   # Academic websites
